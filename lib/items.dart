@@ -49,7 +49,7 @@ const listings = [
   Property(
       id: 3,
       coverUrl: 'assets/images/property3.png',
-      hostAvatarUrl: 'assets/images/person-1.jpeg',
+      hostAvatarUrl: 'assets/images/host3.jpeg',
       hostName: 'Josh',
       title: 'Stay with Josh • Hosting For 8 years',
       address: 'Groveland, California',
